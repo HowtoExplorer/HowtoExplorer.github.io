@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://howtoexplorer.github.io/sitemap.xml
